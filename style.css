@@ -1,3 +1,9 @@
+:root {
+    --green: #b3a1be;
+    --white: #FFFFFF;
+    --black: #000000;
+}
+
 html {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-size: 12px;
