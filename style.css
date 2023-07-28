@@ -4,6 +4,26 @@
     --black: #000000;
 }
 
+/* =============================================
+	HTML5 structural elements
+   =============================================
+*/
+
+article,
+aside,
+details,
+dl,
+figcaption,
+figure,
+footer,
+header,
+hgroup,
+main,
+nav,
+section {
+    display: block;
+}
+
 html {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-size: 12px;
