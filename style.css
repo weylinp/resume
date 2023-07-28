@@ -126,7 +126,7 @@ a:link {
     color: rgb(14, 119, 135);
 }
 a:hover {
-    background-color: yellow;
+    background-color: rgb(81, 81, 64);
 }
 body {
     background: var(--bg);
